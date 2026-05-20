@@ -9,6 +9,15 @@ Crafted with premium matcha and a hint of rose essence, this signature drink lay
 # Named Rotating Flame Coffee, A dance of kumquat passion fruit nectar, cold-drip and orange liqueur, set alight. The flame’s warm swirls kiss the deep, chocolate-kissed coffee, while bright citrus zing cuts through the richness. Every sip is a journey—from the bright spark of fruit, to the slow-brewed heart of coffee, to the warm, glowing finish of the liqueur. Our patented symphony of flavors, meant to be savored slowly.
 ![Rotating Flame Coffee](Rotating%20Flame%20Coffee.JPG)
 [<video src="Rotating%20Flame%20Coffee.mp4" width="300" controls></video>](https://raw.githubusercontent.com/cdADDCOFFEE/addcoffee-global/main/Rotating%20Flame%20Coffee.mp4)
+
+
+##Signature Drink: Mermaid Coffee
+# Named Rotating Flame Coffee,Tribute to Stephen Chow’s The Mermaid, we blend eco-soul into this cup. Blue citrus and soda form limpid tides, with golden fish gummies as sea sprites. As coffee pours like pollution, the clear hue fades into turbid green—stirring both eye and heart. Bright citrus dances with mellow coffee, crisp bubbles and sweet candies bring hidden joys.
+![Mermaid Coffee - Ocean Hue](Mermaid%20Coffee.jpg)
+![Mermaid Coffee - Sprite Touch](Mermaid%20Coffee2.png)
+![Mermaid Coffee - Pouring Moment](Mermaid%20Coffee3.jpg)
+
+
 ## Our Location 
 ADD Coffee Bar 1st Floor Lobby, Mandao Hotel  No. 366 North Station West 1st Alley Jinniu District, Chengdu, Sichuan, China
 Open Daily: 8:30 AM - 5:30 PM
